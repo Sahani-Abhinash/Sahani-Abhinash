@@ -1,51 +1,154 @@
-# Abhinash Sahani
-### **Full-Stack .NET & Azure Cloud Engineer**
+<h1 align="center">Hi 👋, I'm Abhinash Sahani</h1>
+<h3 align="center">Senior .NET & Azure Cloud Engineer | AZ-104 · AZ-400 · AZ-305 | Microservices · DevOps · Industry 4.0</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinash%20Sahani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhinash-sahani/)
-[![Email](https://img.shields.io/badge/Email-abhinash.sahani3%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:abhinash.sahani3@gmail.com)
-
----
-
-## 🚀 About Me
-I am a Full-Stack .NET and certified Azure Cloud & DevOps professional with deep expertise in building enterprise-grade platforms, microservices, and cloud infrastructure. Passionate about software architecture, clean code, and robust CI/CD automation.
-
-* **Current Location:** Nuremberg, Germany (Open to relocation across Germany & Europe)
-* **Status:** EU Blue Card holder (No visa sponsorship required) / Immediate availability
-* **Certifications:**
-  * 🏆 **AZ-104:** Azure Administrator Associate
-  * 🏆 **AZ-400:** DevOps Engineer Expert
-  * 🏆 **AZ-305:** Azure Solutions Architect Expert
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinash-sahani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhinash.sahani3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Nuremberg%2C%20Germany-informational?style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🚀 About Me
 
-* **Languages:** C#, TypeScript, JavaScript
-* **Backend:** .NET Core, Web API, Entity Framework Core, Microservices, CQRS, DDD, Clean Architecture
-* **Frontend:** Angular, HTML5, CSS3
-* **Cloud & DevOps:** Microsoft Azure (AKS, Azure Functions, App Service), Docker, Kubernetes, Terraform, Bicep, GitHub Actions, Azure DevOps, CI/CD
-* **Desktop:** WPF
-* **Methodologies & Standards:** Agile/Scrum, SOLID principles, SECS/GEM, Industry 4.0
-
----
-
-## 📌 Featured Repositories
-
-| Repository | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[CommandCenterDemo](https://github.com/Sahani-Abhinash/CommandCenterDemo)** | Enterprise architecture command center demonstration. | C#, .NET Core |
-| **[AzureFunctionsProductCatalogApi](https://github.com/Sahani-Abhinash/AzureFunctionsProductCatalogApi)** | Serverless product catalog API built on Azure Functions. | C#, Azure Functions |
-| **[klinkhammerWMS](https://github.com/Sahani-Abhinash/klinkhammerWMS)** | Warehouse Management System modules and backend logic. | C#, .NET |
-| **[HashPipeline](https://github.com/Sahani-Abhinash/HashPipeline)** | Data pipeline processing and utility workflow tool. | C# |
+- 🎯 **10+ years** building enterprise-grade **C#/.NET** platforms, **microservices**, and cloud infrastructure across manufacturing, SaaS, and Industry 4.0 domains
+- 🏗️ Currently leading the **Azure cloud transformation** of a multi-tenant MES SaaS platform — .NET Core, Angular, AKS, Terraform/Bicep, GitHub Actions CI/CD
+- ☁️ Hold all **three core Microsoft Azure certifications**:
+  - 🏅 **AZ-104** — Azure Administrator Associate
+  - 🏅 **AZ-400** — DevOps Engineer Expert
+  - 🏅 **AZ-305** — Azure Solutions Architect Expert
+- 🧩 Deep domain expertise in **MES/MOM**, **SECS/GEM**, and semiconductor/manufacturing systems
+- 🌍 Based in **Nuremberg, Germany** | Open to relocation across Germany & Europe | Remote / Hybrid / On-site
+- ⚡ **Immediately available**
+- 🎓 EU Blue Card holder — no visa sponsorship required
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahani-Abhinash&show_icons=true&theme=radical" alt="Abhinash's GitHub Stats" />
-</div>
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20API-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/WPF-0C54C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/Angular%20(v18+)-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAML-0C54C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/MVC-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/AJAX-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevExpress-4C4C4C?style=flat-square" />
+</p>
+
+**Architecture**
+<p>
+  <img src="https://img.shields.io/badge/Event%20Sourcing-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microservices-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/SOLID-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/CQRS-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/DDD-4C4C4C?style=flat-square" />
+</p>
+
+**Data**
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cosmos%20DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Functions-0062AD?style=flat-square" />
+  <img src="https://img.shields.io/badge/App%20Service-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Service%20Bus-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Event%20Grid-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Key%20Vault-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Application%20Insights-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+</p>
+
+**AI**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI%20APIs-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs%20(ChatGPT)-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Agents-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI--Powered%20Development-4C4C4C?style=flat-square" />
+</p>
+
+**Testing**
+<p>
+  <img src="https://img.shields.io/badge/TDD-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Unit%20Testing-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/xUnit-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/NUnit-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Moq-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Integration%20Testing-4C4C4C?style=flat-square" />
+</p>
+
+**Domain**
+<p>
+  <img src="https://img.shields.io/badge/MES%2FMOM-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/SECS%2FGEM%20Protocol-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Siemens%20Camstar-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Industry%204.0-4C4C4C?style=flat-square" />
+</p>
 
 ---
 
-📫 **Get in touch:** Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/abhinash-sahani/) or drop an email to **abhinash.sahani3@gmail.com**.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahani-Abhinash&show_icons=true&theme=default&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahani-Abhinash&layout=compact&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahani-Abhinash&theme=default" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinash-sahani/">LinkedIn</a> •
+  <a href="mailto:abhinash.sahani3@gmail.com">Email</a> •
+  📞 (+49) 174 588 8068
+</p>
