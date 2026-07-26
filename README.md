@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Abhinash Sahani - Full-Stack .NET Engineer" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Abhinash Sahani</h1>
 <h3 align="center">Senior .NET & Azure Cloud Engineer | AZ-104 · AZ-400 · AZ-305 | Microservices · DevOps · Industry 4.0</h3>
 
